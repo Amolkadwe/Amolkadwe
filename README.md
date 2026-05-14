@@ -1,62 +1,65 @@
 <h1 align="center">Hi 👋, I'm Amol Kadwe</h1>
-<h3 align="center">DevOps Engineer | Kubernetes Administrator | Cloud & Automation Enthusiast</h3>
+
+<h3 align="center">
+DevOps Engineer | Kubernetes Administrator | Cloud & Automation Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&center=true&vCenter=true&lines=DevOps+Engineer;Kubernetes+Administrator;Cloud+%26+Automation+Enthusiast;Linux+Infrastructure+Management;CI%2FCD+Pipeline+Engineer;Open+Source+Learner" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=DevOps+Engineer;Cloud+Infrastructure+Engineer;Kubernetes+Administrator;CI%2FCD+Automation+Engineer;Open+Source+Enthusiast" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- ☸️ Managing and monitoring Production Kubernetes Clusters
-- 🚀 Handling Deployments, CI/CD Pipelines & Infrastructure Operations
-- 🐳 Hands-on experience with Docker, Kubernetes, Jenkins & GitLab
-- 📊 Working with Prometheus, Grafana, ELK & Loki Monitoring Stack
-- 🔐 Exploring DevSecOps & Security Best Practices
-- ☁️ Learning and improving Cloud & Automation skills
-- 🐧 Strong hands-on experience with Linux & Windows Administration
-- 🛠️ Passionate about Open Source, Automation & Infrastructure Engineering
+💻 DevOps Engineer with **2+ years of experience** in cloud infrastructure, containerization, and CI/CD automation.
+
+🔹 Passionate about building scalable infrastructure, automating workflows, and improving deployment reliability.
+
+🔹 Strong hands-on experience with Kubernetes, Docker, CI/CD pipelines, Infrastructure as Code, Monitoring & Linux Administration.
 
 ---
 
-# 🛠️ Tech Stack
+## 🎯 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,openshift,aws,gcp,terraform,ansible,jenkins,git,github,gitlab,prometheus,grafana,python,bash,vscode,mysql,postgres,nginx" />
+</p>
+
+---
+
+## 🏅 Certifications
+
+- 🏆 RHCSA — Red Hat Certified System Administrator  
+- 🏆 EX188 — Red Hat Certified Specialist in Containers  
+- 🏆 CCA — Certified Container Administrator  
+
+---
+
+## 💡 What I Do
+
+✔ Build & manage Kubernetes-based infrastructure  
+✔ Automate deployments using CI/CD pipelines  
+✔ Implement Infrastructure as Code using Terraform & Ansible  
+✔ Monitor systems using Prometheus, Grafana & ELK  
+✔ Automate operational tasks using Bash & Python  
+✔ Troubleshoot production and infrastructure issues  
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=linux,docker,kubernetes,aws,gcp,azure,terraform,ansible,jenkins,git,github,python,bash,vscode,nginx,mysql,postgres,flask,django,html,css,javascript" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amolkadwe&show_icons=true&theme=tokyonight" />
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amolkadwe&theme=tokyonight" />
 
 </p>
 
 ---
 
-# ⚙️ DevOps & Cloud Tools
-
-<p align="center">
-
-<img src="https://go-skill-icons.vercel.app/api/icons?i=docker,kubernetes,jenkins,terraform,ansible,argocd,grafana,prometheus,gitlab,githubactions,linux,python,bash" />
-
-</p>
-
----
-
-# 🏆 Certifications
-
-- 🏅 Red Hat Certified Specialist in Containers & Kubernetes (EX188)
-
----
-
-# 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Amolkadwe&show_icons=true&theme=tokyonight" height="180em"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Amolkadwe&theme=tokyonight" height="180em"/>
-</p>
-
----
-
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 <p align="center">
 
@@ -76,34 +79,18 @@
 
 ---
 
-# 📚 Currently Learning
+## 📌 Open To Opportunities
 
-- 🔐 DevSecOps
-- ☁️ Advanced Cloud Technologies
-- ⚙️ Infrastructure as Code
-- 🚀 Kubernetes Advanced Concepts
-- 🛡️ Security & Automation Practices
+🚀 DevOps Engineer • Cloud Engineer • Platform Engineer • SRE
 
----
-
-# 🤝 Open for Opportunities
-
-I am actively looking for opportunities in:
-
-- DevOps Engineering
-- Kubernetes Administration
-- Cloud Infrastructure
-- Automation & CI/CD
-- Site Reliability Engineering (SRE)
-
-📫 Reach me at: **amolkadwe3@gmail.com**
+📩 **amolkadwe3@gmail.com**
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Amolkadwe&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Amolkadwe&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <p align="center">
-⭐ Thanks for visiting my profile! Let's connect and build something amazing together 🚀
+⭐ Thanks for visiting my GitHub profile!
 </p>
