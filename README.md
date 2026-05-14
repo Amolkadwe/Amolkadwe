@@ -47,18 +47,6 @@ DevOps Engineer | Kubernetes Administrator | Cloud & Automation Enthusiast
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amolkadwe&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Amolkadwe&theme=tokyonight" />
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
